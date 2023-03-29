@@ -14,10 +14,15 @@ Note that the Stable Diffusion Image Generator works in conjunction with an API 
 To use the Stable Diffusion Image Generator, follow these simple steps:
 
 1. Clone this repository to your local machine.
-### `git clone https://github.com/ahmedbellaaj10/react-stable-diffusion-app.git`
+```cmd
+git clone https://github.com/ahmedbellaaj10/react-stable-diffusion-app.git
+```
+
 2. Install the necessary dependencies by running 
-### `npm install`
-3. Make sure you href="https://github.com/ahmedbellaaj10/stable-diffusion-api">FastAPI</a> repo is correctly cloned and has all the required dependencies
+```cmd
+npm install
+```
+3. Make sure you <a>href="https://github.com/ahmedbellaaj10/stable-diffusion-api">FastAPI</a> repo is correctly cloned and has all the required dependencies
 4. Start the application by running npm start.
 5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 6. Enter a prompt in the input field on the home page.
